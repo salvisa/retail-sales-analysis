@@ -123,13 +123,6 @@ Based on the analysis:
 - GitHub: [@salvisa](https://github.com/salvisa)
 - Project Link: [https://github.com/salvisa/retail-sales-analysis](https://github.com/salvisa/retail-sales-analysis)
 
-## 📝 Next Steps
-
-- [ ] Create interactive Tableau dashboard
-- [ ] Add SQL queries for database analysis
-- [ ] Implement predictive modeling for sales forecasting
-- [ ] Add customer segmentation using clustering
-
 ---
 
 *This project was created as part of my data analyst portfolio to demonstrate data cleaning, analysis, and visualization skills.*
